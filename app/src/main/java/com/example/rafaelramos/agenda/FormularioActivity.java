@@ -11,7 +11,5 @@ public class FormularioActivity extends AppCompatActivity {
         setContentView(R.layout.activity_formulario);
 
         findViewById()
-                
-
     }
 }
